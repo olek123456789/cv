@@ -33,7 +33,7 @@ Experience
 
 Personal Projects
 ======
-* [CSV Dynamic Analysis](/portfolio/portfolio-1/)
+* [CSV Dynamic Analysis](/cv/portfolio/portfolio-1/)
 * Investment advisory system
   * Cognitive architectures and LLM-based multi-agent platform supporting investments in the natural energy resources market
   * As part of my master's thesis, I developed an advisory system for stock investment analysis based on large language models (LLMs) and the LangGraph framework. I used various stock analysis methods, combined with LangGraph, to generate investment recommendations (Buy, Sell, Hold) for selected companies.
